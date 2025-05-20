@@ -46,7 +46,7 @@ https://zenodo.org/records/15454575
 
 ## Download <a name = "download"></a>
  
- To access this content, please complete the following [form](https://docs.google.com/forms/d/e/1FAIpQLScWhQ2CjQesqlS5VQhGUp0cMKa6230av4kUV5tJJyIiyRQEJw/viewform) to acquire the access. You can find the download link [here](https://drive.google.com/drive/folders/1p5rgvFmJ6plaKwPIDUXYGBGA2d_n_3oY?usp=drive_link).
+ To access this content, please complete the following [form](https://docs.google.com/forms/d/e/1FAIpQLScWhQ2CjQesqlS5VQhGUp0cMKa6230av4kUV5tJJyIiyRQEJw/viewform) to acquire the access. You can find the download link [here](https://mega.nz/file/6FsFXBQA).
 
 <!-- ## Publications <a name = "publications"></a>
 - [2023 IEEE SeGAH](https://www.segah.org/2023/) -->
