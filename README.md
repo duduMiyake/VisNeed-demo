@@ -17,7 +17,7 @@
 <p align="center">A Visual Platform for Modeling and Editing Decision Trees for Interactive Applications<br> 
 </p>
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [Table of Contents](#table-of-contents)
 - [About ](#about-)
@@ -26,7 +26,7 @@
 - [Authors ](#authors-)
 <!-- - [Acknowledgments](#acknowledgement) -->
 
-## About <a name = "about"></a>
+## 🧠 About <a name = "about"></a>
 
 VisNeed is an interactive platform designed to make the decision tree editor NEED, developed
 by Barbosa and Rodrigues (2025), more accessible and user-friendly for a broader audience,
@@ -41,7 +41,18 @@ structural characteristics from NEED, VisNeed will enable integration with game 
 other computational platforms, offering greater practicality and flexibility in the creation and use
 of decision trees.
 
-## Video <a name = "video"></a>
+## 🛠️ Technologies
+VisNeed is built with modern web and desktop technologies:
+
+- Electron — for building cross-platform desktop apps
+
+- JavaScript & TypeScript — core programming languages
+
+- React — for building the UI
+
+- Tailwind CSS — for styling with utility-first approach
+
+## 🎥 Video <a name = "video"></a>
 https://zenodo.org/records/15454575
 
 ## Download <a name = "download"></a>
@@ -51,7 +62,7 @@ https://zenodo.org/records/15454575
 <!-- ## Publications <a name = "publications"></a>
 - [2023 IEEE SeGAH](https://www.segah.org/2023/) -->
 
-## Authors <a name = "authors"></a>
+## 👤 Authors <a name = "authors"></a>
 
 - [@duduMiyake](https://github.com/duduMiyake)
 - Rafael Garcia Barbosa
