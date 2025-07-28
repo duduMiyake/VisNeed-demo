@@ -55,9 +55,11 @@ VisNeed is built with modern web and desktop technologies:
 ## 🎥 Video <a name = "video"></a>
 https://zenodo.org/records/15454575
 
-## Download <a name = "download"></a>
- 
- To access this content, please complete the following [form](https://forms.gle/apoFFCoeg9gGULWD9) to acquire the access. You can find the download link [here](https://mega.nz/file/6FsFXBQA).
+## Download (open source code) <a name = "download"></a>
+
+ https://zenodo.org/records/15459896
+<!-- To access this content, please complete the following [form](https://forms.gle/apoFFCoeg9gGULWD9) to acquire the access. You can find the download link [here](https://mega.nz/file/6FsFXBQA).-->
+
 
 <!-- ## Publications <a name = "publications"></a>
 - [2023 IEEE SeGAH](https://www.segah.org/2023/) -->
