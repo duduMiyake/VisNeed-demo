@@ -9,6 +9,7 @@
 
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](/LICENSE)
+[![Published Paper](https://img.shields.io/badge/Paper-SE4Games%202025-blue)](https://sol.sbc.org.br/index.php/se4games/article/view/36934)
 
 </div>
 
@@ -58,11 +59,15 @@ https://zenodo.org/records/15454575
 ## Download (open source code) <a name = "download"></a>
 
  https://zenodo.org/records/15459896
-<!-- To access this content, please complete the following [form](https://forms.gle/apoFFCoeg9gGULWD9) to acquire the access. You can find the download link [here](https://mega.nz/file/6FsFXBQA).-->
 
+## 📰 Publication <a name = "publication"></a>
+This software has been featured in the following scientific publication:
 
-<!-- ## Publications <a name = "publications"></a>
-- [2023 IEEE SeGAH](https://www.segah.org/2023/) -->
+> **Eduardo Miyake, Rafael Garcia Barbosa, and Andréa M. Rodrigues.**  
+> *VIS-NEED: A Visual Platform for Modeling and Editing Decision Trees for Interactive Applications.*  
+> In: *Proceedings of the 14th Workshop on Software Engineering for Games (SE4Games 2025)*, part of *CBSoft 2025*.  
+> Sociedade Brasileira de Computação (SBC), 2025.  
+> [Read the full paper here →](https://sol.sbc.org.br/index.php/se4games/article/view/36934)
 
 ## 👤 Authors <a name = "authors"></a>
 
